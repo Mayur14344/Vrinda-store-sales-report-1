@@ -1,2 +1,1 @@
-# Vrinda-store-sales-report-1
-**Vrinda Store Data Analysis** offers detailed retail data with orders, customer demographics, product info, and sales via Myntra, Ajio, Amazon. Includes SKU, size, quantity, sales, and location. Ideal for sales trends, profiling, and logistics. Excel format, ready for Power BI, Python, or Excel use.
+**Vrinda Store Data Analysis** provides detailed retail data, including order details, customer demographics, product information, and sales across platforms like Myntra, Ajio, and Amazon. It includes SKU, size, quantity, sales amount, and location data. Ideal for analyzing sales trends, customer profiling, and logistics. Available in Excel format, ready for use in Power BI, Python, or Excel.
